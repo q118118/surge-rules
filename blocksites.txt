@@ -607,3 +607,14 @@
 .z3.cnzz.com
 .zconfig.alibabausercontent.com
 .zz.bdstatic.com
+.myparallels.com
+.parallels.cn
+.parallels.com
+.parallels.de
+.parallels.es
+.parallels.fr
+.parallels.nl
+.parallels.pt
+.parallels.ru
+.parallelskorea.com
+.parallels.com.cdn.cloudflare.net
