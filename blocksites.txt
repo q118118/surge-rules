@@ -332,7 +332,6 @@
 .hb-api.omnitagjs.com
 .hbopenbid.pubmatic.com
 .hd2.3g.qq.com
-.Help us translate or improve NextDNS in your language. Learn more
 .hm.baidu.com
 .htlb.casalemedia.com
 .iadcontent.apple.com
